@@ -44,7 +44,7 @@ If you find this useful, consider giving it a star. ⭐
 
 ## News
 
-- **April 20, 2026:** Added `gpt_image_2_prompt.json` with 12 newly curated GPT-Image-2 prompts from the latest 24-hour update
+- **April 20, 2026:** Added 10 newly curated GPT-Image-2 prompts with local image assets and README updates.
 - **April 19, 2026:** Added 10 new GPT-Image-2 prompts across poster, UI, and comparison cases
 - **April 18, 2026:** First repository release with curated GPT-Image-2 case set
 
@@ -730,9 +730,12 @@ Kusさん
 **Prompt:**
 
 ```
-看到GPT 2 Image 直出 UI 图的那一刻，奥特曼坦言：被吓到眩晕瘫坐，那一刻就像看到原子弹爆炸。
+用这种风格帮我生成一套UI设计系统，包含网页、移动端、卡片、控件、按钮 以及其它
 
-别再说自己审美差，前端写不好了，现在 GPT 2 Image 一个 prompt 直出UI设计图，不满意还可以再编辑，或者继续让它以同样风格渲染其他页面。
+把这套视觉风格作为参考生成网页
+那视觉品质直接提升好几个level
+
+我尝试了宇宙、飞行、蝴蝶主题，期待你的脑洞，可以丢在评论区
 ```
 <!-- Case 2: Amateur iPhone Keynote Snapshot (by @patrickassale) -->
 ### Case 2: [Amateur iPhone Keynote Snapshot](https://x.com/patrickassale/status/2044687244368441742) (by [@patrickassale](https://x.com/patrickassale))
@@ -879,12 +882,7 @@ gpt-image-2
 **Prompt:**
 
 ```
-原來ChatGPT嘅圖像生成Model又更新咗
-講多無謂! 直接用同樣嘅Prompt同參考圖測試下
-(左) GPT Image 2 (右) Nano Banana 2
-本身GPT Image都有主體同背景光線強度不一嘅問題
-而家仲要整到個主體嘅頭,身,腳嘅比例好奇怪😮
-我會用災難級嚟形容GPT Image 2嘅表現
+，不同模型的风格倾向，这次GPT更新太惊艳，审美和细节都可谓是赶超…
 ```
 <!-- Case 2: Direct-on-Reference Frame Directing (by @samifox_ai) -->
 ### Case 2: [Direct-on-Reference Frame Directing](https://x.com/samifox_ai/status/2044898023159853100) (by [@samifox_ai](https://x.com/samifox_ai))
@@ -1003,11 +1001,17 @@ First impression: the jump in aesthetics is very noticeable. Portraits feel more
 **Prompt:**
 
 ```
-，gpt-image-2的效果真的太出彩了。
-看到这张图的第一眼只觉得震撼，
-眼睛的纹理，特效，文字样式竟然能精细准确到如此程度，
-这完全就是奔着商业化方向去的。
-提示词见原贴。
+以眼部特写图片为基础，生成3:4的四屏构图超写实眼部特写，四屏按春夏秋冬上下排序。
+
+第一屏：眼眸中带着绽粉樱色的美瞳，睫毛缀满迷你春花，脸颊散落樱瓣与黄蕊小花，粉蝶萦绕眉眼，浅金发丝轻垂，下方簇簇樱花怒放，画面中央"SPRING"白色艺术字点缀，风格细腻唯美，光影柔和，色彩粉嫩治愈，下面用书法体写着春；
+
+第二屏：眼眸中带着着清荷色的美瞳，睫毛饰以粉莲与绿荷，脸颊挂着晶莹水珠，粉瓣、绿荷点缀其间，蜻蜓轻绕，浅金发丝若隐若现，画面中央"Summer"白色艺术字凸显，光影通透流光感，色彩清透凉爽，下面用书法体写着夏；
+
+第三屏：眼眸中带着金黄红相间的美瞳，睫毛饰以橙红枫叶，脸颊散落金红秋叶，橙蝶翩跹眉眼间，浅金发丝隐约可见，画面中央"AUTUMN"白色艺术字醒目，光影暖金流光，色彩浓郁温暖，下面用书法笔写着秋；
+
+第四屏：眼眸中带着雪花蓝色的美瞳，睫毛覆满冰晶雪片，脸颊散落白色雪花与红色腊梅，银白蝴蝶翩跹眉眼，浅金发丝朦胧似雪，画面中央"WINTER"白色艺术字亮眼，光影冷冽蓝白流光，色彩清透纯净，下面用书法体写着冬。
+
+整体呈现梦幻眼眸四季交替的唯美梦幻治愈画面，微调各屏的光影强度，让画面氛围感更浓郁。
 ```
 <!-- Case 11: GPT vs Banana Blind Comparison (by @linxiaobei888) -->
 ### Case 11: [GPT vs Banana Blind Comparison](https://x.com/linxiaobei888/status/2044947911495336262) (by [@linxiaobei888](https://x.com/linxiaobei888))
