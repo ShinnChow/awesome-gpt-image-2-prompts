@@ -644,6 +644,8 @@ face changed, different identity, beautified face, edited face, smooth plastic s
 
 
 
+
+<!-- Case 26: Candid Bedroom Selfie Photorealistic Portrait (by @charliejhills) -->
 ### Case 26: [Candid Bedroom Selfie Photorealistic Portrait](https://x.com/charliejhills/status/2047969988368314526) (by [@charliejhills](https://x.com/charliejhills))
 
 | Output |
@@ -657,6 +659,7 @@ Candid selfie of a young woman with shoulder-length honey-blonde hair with light
 ```
 
 
+<!-- Case 27: Musician Leaving Bodega Night Cinematic Portrait (by @commanderdgr8) -->
 ### Case 27: [Musician Leaving Bodega Night Cinematic Portrait](https://x.com/commanderdgr8/status/2047934886124867684) (by [@commanderdgr8](https://x.com/commanderdgr8))
 
 | Output |
@@ -670,6 +673,7 @@ A candid, magazine-cover quality documentary photograph of a young musician with
 ```
 
 
+<!-- Case 28: Old Delhi Sweet Shop Storefront Documentary Photo (by @commanderdgr8) -->
 ### Case 28: [Old Delhi Sweet Shop Storefront Documentary Photo](https://x.com/commanderdgr8/status/2047889839123521635) (by [@commanderdgr8](https://x.com/commanderdgr8))
 
 | Output |
@@ -683,6 +687,7 @@ Create a photorealistic travel-documentary image of a small sweet-shop storefron
 ```
 
 
+<!-- Case 29: Cyberpunk Sci-Fi Side Profile Portrait (by @iamsofiaijaz) -->
 ### Case 29: [Cyberpunk Sci-Fi Side Profile Portrait](https://x.com/iamsofiaijaz/status/2047882171336253928) (by [@iamsofiaijaz](https://x.com/iamsofiaijaz))
 
 | Output |
@@ -696,6 +701,7 @@ A cinematic side-profile portrait of a rugged man with a tied-back bun and full 
 ```
 
 
+<!-- Case 30: Realistic Candid Bedroom Recording Portrait (by @ChillaiKalan__) -->
 ### Case 30: [Realistic Candid Bedroom Recording Portrait](https://x.com/ChillaiKalan__/status/2047862141894681076) (by [@ChillaiKalan__](https://x.com/ChillaiKalan__))
 
 | Output |
@@ -723,6 +729,7 @@ Style: ultra-realistic, looks like a real phone recording, slightly grainy, not 
 ```
 
 
+<!-- Case 31: Toddler Crayon Scribble Art Style Portrait (by @akakageAI) -->
 ### Case 31: [Toddler Crayon Scribble Art Style Portrait](https://x.com/akakageAI/status/2047812983389356276) (by [@akakageAI](https://x.com/akakageAI))
 
 | Output |
@@ -949,66 +956,6 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 广州的地标建筑(广州塔，珠江新城建筑群，珠江, 广州城里古建筑，游轮，白云山）。
 云雾环绕，仙气缥缈，色彩丰富，结构复杂，细节丰富，但因为大面积的留白，画面依然显得清新脱俗，左下角排版着“SPRING 2026”和竖排的宣传语，整体寓意“千年商都，魅力广州”。
 文字排版优美，大方，字迹清晰完整，尺寸9:16。
-```
-
-<!-- Case 26: Qiongqi Eastern Aesthetics Poster (by @liyue_ai) -->
-### Case 26: [Qiongqi Eastern Aesthetics Poster](https://x.com/liyue_ai/status/2045506567735558336) (by [@liyue_ai](https://x.com/liyue_ai))
-
-| Output |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case26/output.jpg" width="300" alt="Output image"></a> |
-
-**Prompt:**
-
-```
-极简主义，新中式风格立体图形设计，图像下端有楷体中国文字：“东方美学”，“2026/04/18”，署名 “CHINA”，和“@LIYUE"；
-平整纯白色的亚光质感厚艺术纸上绘充满东方诗意氛围的山水创意画，不规则的撕纸效果；
-中国的神兽：穷奇，身形图案完整，美轮美奂，，线条柔美灵动,眼睛炯炯有神，威严的神态，优雅的姿势，奢华装饰艺术，中国传统纹饰；
-荧光蓝色线条，0.5mm极细金色金属质感勾边，泼白墨大笔触，色彩渲染，红底，蓝色的浪漫诗意视觉；
-冷暖光交织的梦幻唯美场景，强烈的光影对比氛围，花轻舞的时光叙事，东风禅意，画面有大面积留白，框架构图，底部留白，细节清晰。
-```
-
-<!-- Case 27: Guangzhou Paper-Cut City Poster (by @liyue_ai) -->
-### Case 27: [Guangzhou Paper-Cut City Poster](https://x.com/liyue_ai/status/2045527750606487877) (by [@liyue_ai](https://x.com/liyue_ai))
-
-| Output |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case27/output.jpg" width="300" alt="Output image"></a> |
-
-**Prompt:**
-
-```
-以珠江新城现代都市景观为灵感的剪纸艺术，通过精巧的镂空手法在一整幅纸上，立体刻画广州塔、东西双塔等地标建筑与繁华城景。
-所有建筑与元素均以流畅的线条与结构相连，无孤立部分，构成一幅完整的都市画卷。
-画面采用金属箔或光泽纸材质，表面带有细腻的明暗光泽，在光照下呈现柔和的高光与阴影，仿佛被城市灯光轻轻照亮。
-背景以虚化的珠江新城天际线为衬，点缀隐约可见的花城广场与树木轮廓，整体透出现代浪漫的氛围。
-作品中巧妙融入轻盈的蒲公英绒毛或星光般的动态光点，象征梦想与活力在这座新城中飘散飞扬。整体呈现8K超高清视觉，细节丰富，真实而富有艺术感染力。
-```
-
-<!-- Case 28: Extreme Perspective Typography Bridge (by @xpg0970) -->
-### Case 28: [Extreme Perspective Typography Bridge](https://x.com/xpg0970/status/2045560665071579160) (by [@xpg0970](https://x.com/xpg0970))
-
-| Output |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case28/output.jpg" width="300" alt="Output image"></a> |
-
-**Prompt:**
-
-```
-①场景 跨海大桥的侧面，dramatic cinematic angle。 巨型 bold sans-serif 文字「___②文字内容 跨海大桥」painted onto the surface of ___③主体物 无，从靠近镜头的前端开始，沿表面向远端 progressively foreshortens 逐渐透视压缩，letterforms conform to surface curvature 贴合物体曲面，surface-integrated not floating。 文字部分区域被 无___④前景遮挡物 无___ occluded and hidden，在间隙中露出， 形成 depth-layering 纵深穿插效果。 Oversized bright yellow + sharp orange outline，extreme perspective distortion aligned to vanishing point。Cinematic lighting, motion blur, poster-grade dynamic integrated typography, modern advertising aesthetics。
-```
-
-<!-- Case 31: Dreamy Watercolor Editorial Illustration (by @hmontilla_) -->
-### Case 31: [Dreamy Watercolor Editorial Illustration](https://x.com/hmontilla_/status/2045513933096636575) (by [@hmontilla_](https://x.com/hmontilla_))
-
-| Output |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case31/output.jpg" width="300" alt="Output image"></a> |
-
-**Prompt:**
-
-```
-Ilustración en acuarela de estilo onírico de [sujeto], con estética impresionista ligera, pinceladas sueltas y lavados translúcidos en tonos [color1] y [color2]. Difuminado suave sobre textura de papel prensado en frío, iluminación delicada, composición limpia, enfoque minimalista, sensación de calma, ligereza y belleza efímera, alta calidad, estilo editorial.
 ```
 
 <!-- Case 32: Science Encyclopedia Vertical Poster (by @pfanis) -->
@@ -1792,6 +1739,8 @@ generate an image of a racing car poster with its spec and pricing
 
 
 
+
+<!-- Case 70: Luxury Sportswear Basketball Athlete Campaign Poster (by @Shorelyn_) -->
 ### Case 70: [Luxury Sportswear Basketball Athlete Campaign Poster](https://x.com/Shorelyn_/status/2047949711181832558) (by [@Shorelyn_](https://x.com/Shorelyn_))
 
 | Output |
@@ -1815,6 +1764,7 @@ Style should feel modern, minimal, elite, bold, high fashion sports campaign, lu
 ```
 
 
+<!-- Case 71: Streetwear Fashion Campaign Asian Apparel Poster (by @harboriis) -->
 ### Case 71: [Streetwear Fashion Campaign Asian Apparel Poster](https://x.com/harboriis/status/2047921293123895520) (by [@harboriis](https://x.com/harboriis))
 
 | Output |
@@ -1836,6 +1786,7 @@ Composition should feel premium, trendy, clean, commercial, youthful, modern fas
 ```
 
 
+<!-- Case 72: Epic Career Moments Cinematic Poster Template (by @Goodmanprotocol) -->
 ### Case 72: [Epic Career Moments Cinematic Poster Template](https://x.com/Goodmanprotocol/status/2047900470921040270) (by [@Goodmanprotocol](https://x.com/Goodmanprotocol))
 
 | Output |
@@ -1849,6 +1800,7 @@ Create an epic poster showcasing the most iconic moments of [Insert Name]'s care
 ```
 
 
+<!-- Case 73: Avant-Garde Basketball Sculpture Sports Fashion Ad (by @AIwithkhan) -->
 ### Case 73: [Avant-Garde Basketball Sculpture Sports Fashion Ad](https://x.com/AIwithkhan/status/2047886964037398989) (by [@AIwithkhan](https://x.com/AIwithkhan))
 
 | Output |
@@ -1862,6 +1814,7 @@ Avant-garde sports fashion advertisement, oversized basketball posed like a monu
 ```
 
 
+<!-- Case 74: Avant-Garde Tennis Racket Sculpture Sports Fashion Ad (by @AIwithSynthia) -->
 ### Case 74: [Avant-Garde Tennis Racket Sculpture Sports Fashion Ad](https://x.com/AIwithSynthia/status/2047884609321619831) (by [@AIwithSynthia](https://x.com/AIwithSynthia))
 
 | Output |
@@ -1875,6 +1828,7 @@ Avant-garde sports fashion advertisement, oversized tennis racket positioned lik
 ```
 
 
+<!-- Case 75: Surrealist Liquor Brand High Fashion Poster (by @hmontilla_) -->
 ### Case 75: [Surrealist Liquor Brand High Fashion Poster](https://x.com/hmontilla_/status/2047884126343032995) (by [@hmontilla_](https://x.com/hmontilla_))
 
 | Output |
@@ -1893,6 +1847,7 @@ Establecer la relación de aspecto en 3:4.
 ```
 
 
+<!-- Case 76: Premium Food Recipe Poster Elegant Layout (by @Preda2005) -->
 ### Case 76: [Premium Food Recipe Poster Elegant Layout](https://x.com/Preda2005/status/2047883394152088004) (by [@Preda2005](https://x.com/Preda2005))
 
 | Output |
@@ -1907,6 +1862,7 @@ Create a premium food preparation poster for
 ```
 
 
+<!-- Case 77: Luxury Fashion Magazine Cover Black and White (by @iamrealsnow) -->
 ### Case 77: [Luxury Fashion Magazine Cover Black and White](https://x.com/iamrealsnow/status/2047883187527856345) (by [@iamrealsnow](https://x.com/iamrealsnow))
 
 | Output |
@@ -1922,6 +1878,7 @@ Style should feel premium, modern, cinematic, clean composition, sharp focus, ul
 ```
 
 
+<!-- Case 78: Surrealist Rolex Luxury Watch Fashion Poster (by @Sheldon056) -->
 ### Case 78: [Surrealist Rolex Luxury Watch Fashion Poster](https://x.com/Sheldon056/status/2047873913049538927) (by [@Sheldon056](https://x.com/Sheldon056))
 
 | Output |
@@ -1935,6 +1892,7 @@ A high-fashion surrealist poster for Rolex. A deep emerald green minimalist stud
 ```
 
 
+<!-- Case 79: Peacock Botanical Vintage Symmetrical Art Print (by @dotey) -->
 ### Case 79: [Peacock Botanical Vintage Symmetrical Art Print](https://x.com/dotey/status/2047803054422901046) (by [@dotey](https://x.com/dotey))
 
 | Output |
@@ -1948,6 +1906,7 @@ symmetrical design featuring two elegant blue peacocks with detailed feather pat
 ```
 
 
+<!-- Case 80: SPLASH Fashion Brand Hyper-Realistic Campaign Poster (by @miratechtool) -->
 ### Case 80: [SPLASH Fashion Brand Hyper-Realistic Campaign Poster](https://x.com/miratechtool/status/2047780974709346606) (by [@miratechtool](https://x.com/miratechtool))
 
 | Output |
@@ -1966,6 +1925,7 @@ Camera: 85mm lens, shallow depth of field, 8K, ultra-detailed, photorealistic.
 ```
 
 
+<!-- Case 81: Avant-Garde Guitar Sculpture Fashion Advertisement (by @QamarRiaz1) -->
 ### Case 81: [Avant-Garde Guitar Sculpture Fashion Advertisement](https://x.com/QamarRiaz1/status/2047777016733110722) (by [@QamarRiaz1](https://x.com/QamarRiaz1))
 
 | Output |
@@ -1976,153 +1936,6 @@ Camera: 85mm lens, shallow depth of field, 8K, ultra-detailed, photorealistic.
 
 ```
 Avant-garde fashion advertisement, oversized guitar positioned like sculpture, a guitarist in jeans casually seated on the a button as if furniture, giant word "Plism Art" behind in bold white typography, powder pastel studio background, reflective floor, luxury eyewear campaign aesthetic, ultra-clean layout, editorial magazine styling, Bold quote " What are you listening"   Tag : Create Own Change
-```
-
-## Character Design Cases
-
-<!-- Case 1: Anime Snapshot Conversion (by @Thereallo1026) -->
-### Case 1: [Anime Snapshot Conversion](https://x.com/Thereallo1026/status/2044241997163311569) (by [@Thereallo1026](https://x.com/Thereallo1026))
-
-| Output |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/character_case1/output.jpg" width="300" alt="Output image"></a> |
-
-**Prompt:**
-
-```
-Show me the attached image as a snapshot from an actual anime
-```
-<!-- Case 2: Persona5 Character Reference Card (by @iamrednightS) -->
-### Case 2: [Persona5 Character Reference Card](https://x.com/iamrednightS/status/2045075682837836265) (by [@iamrednightS](https://x.com/iamrednightS))
-
-| Output |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/character_case2/output.jpg" width="300" alt="Output image"></a> |
-
-**Prompt:**
-
-```
-基于此角色和背景，请制作一份类似官方设定资料的角色资料卡。
-・包含三视图：正面、侧面和背面
-・添加角色面部表情的变化・分解并展示服装和装备的详细部分
-・添加色板・包含世界观设定的简要说明
-・总体上，使用有组织的布局（白色背景，插画风格）高分辨率、专业概念艺术风格
-```
-<!-- Case 3: Gal Game Character Introduction Page (by @09lyco) -->
-### Case 3: [Gal Game Character Introduction Page](https://x.com/09lyco/status/2045281845391323175) (by [@09lyco](https://x.com/09lyco))
-
-| Output |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/character_case3/output.jpg" width="300" alt="Output image"></a> |
-
-**Prompt:**
-
-```
-最新モデルの画像生成ツールを使用して、
-このちびキャライラストと立ち絵を使って本物のサイトページのようにキャラクター紹介ページ風イラストを作ってください。 （紹介ページとして使ってもおかしくないもの）
-ギャルゲーのキャラクター紹介ページをイメージした高品質なもの。 顔の差分なども乗っている、CGイラストが存在する。ちびキャラが存在する。
-
-「ここに自己紹介」
-
-名前:（ここに名前） 
-イメージカラー:（ここに色） 
-身長:（ここに身長）cm 
-体重:（ここに体重）kg
-キャッチコピー:”「ここにセリフ」”
-```
-
-
-<!-- Case 5: Official Character Sheet (JP) (by @Toshi_nyaruo_AI) -->
-### Case 5: [Official Character Sheet (JP)](https://x.com/Toshi_nyaruo_AI/status/2045025277538107420) (by [@Toshi_nyaruo_AI](https://x.com/Toshi_nyaruo_AI))
-
-| Output |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/character_case5/output.jpg" width="300" alt="Output image"></a> |
-
-**Prompt:**
-
-```
-このキャラクターと背景を元に、 公式設定資料のようなキャラクターシートを作成してください。 
-・正面、側面、背面の3面図を含める ・キャラクターの表情バリエーションを追加 
-・衣装や装備の詳細パーツを分解して表示 ・カラーパレットを追加 ・世界観の簡単な説明を入れる 
-・全体は整理されたレイアウト
-（白背景、図解風） 
-・アスペクト比16：9
-
-高解像度、プロのコンセプトアートスタイル
-```
-
-<!-- Case 7: Mecha Girl Sea-City Key Visual (by @old_pgmrs_will) -->
-### Case 7: [Mecha Girl Sea-City Key Visual](https://x.com/old_pgmrs_will/status/2046144801071079612) (by [@old_pgmrs_will](https://x.com/old_pgmrs_will))
-
-| Output |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/character_case7/output.jpg" width="300" alt="Output image"></a> |
-
-**Prompt:**
-
-```
-A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber eyes with glowing HUD reticles, waist-length ash-white hair tied in a high ponytail whipping in the sea wind, matte gunmetal exoskeleton armor plating her shoulders, forearms and shins, exposed hydraulic pistons at the joints, chest rig with glowing cyan coolant lines, oversized oil-stained hangar jacket half slipping off one shoulder, a massive rail cannon resting on her right shoulder, dog tags and frayed red ribbon at her collar , standing off-center to the left on the rusted edge of a tilted steel platform jutting out over dark water, weight shifted onto one leg, left hand gripping the cannon strap, head turned slightly toward camera with a quiet defiant stare, steam venting from her back thrusters, her ponytail and jacket streaming sideways in the salt wind , a vast derelict sea-city at dusk, colossal megastructures of unknown purpose rising from the ocean in staggered silhouettes, bone-white monolithic towers fused with barnacled steel, cyclopean ring-shaped constructs canted at broken angles, rusted skeletal gantries threaded with dead cables, dark swells rolling between the pylons, shipwrecks half-swallowed at their feet, thick sea fog clinging to the bases while the upper structures pierce into a bruised sky, scattered faint lights blinking high in the towers like distant eyes , moody low-key lighting, cold teal ambient from the overcast sky, warm amber sodium glow leaking from a distant structure camera-right, hard backlight from a low sun behind the towers carving her silhouette, volumetric god rays cutting through sea mist, wet specular highlights on her armor , 35mm anamorphic lens, slight low angle looking up past her shoulder toward the structures, medium-wide shot, shallow depth of field with foreground rust in soft focus, horizontal lens flares, fine atmospheric haze compressing the distant megastructures into layered silhouettes , cinematic anime key visual, painterly digital illustration with crisp line art, desaturated oceanic palette of teal, bone-white and rust punched by small warm accent lights, film grain, high-contrast editorial poster aesthetic . Format 16:9.
-```
-
-<!-- Case 8: Saint Seiya Gold Saints Card Grid (by @songguoxiansen) -->
-### Case 8: [Saint Seiya Gold Saints Card Grid](https://x.com/songguoxiansen/status/2046476566537080849) (by [@songguoxiansen](https://x.com/songguoxiansen))
-
-| Output |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/character_case8/output.jpg" width="300" alt="Output image"></a> |
-
-**Prompt:**
-
-```
-生成圣斗士星矢12个黄金圣斗士的12宫格卡牌图片,每张卡牌上写上对应的中文名,每行4个,宽高比16:9。
-```
-
-<!-- Case 9: Chaos Notes Hidden Face Character Art (by @loglogrog) -->
-### Case 9: [Chaos Notes Hidden Face Character Art](https://x.com/loglogrog/status/2046448773162033240) (by [@loglogrog](https://x.com/loglogrog))
-
-| Output |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/character_case9/output.jpg" width="300" alt="Output image"></a> |
-
-**Prompt:**
-
-```
-# 混沌としたメモ書き・記号の集合体からキャラクターの顔を浮かび上がらせるアート
-
---- スタイル
-- 白い紙の上に黒インクで描かれた大量の手書きメモ、数式、記号、ランダムな線。
-- 紙いっぱいに散らばる書き殴り風のカオス。
-- 所々に赤インクの強調(ライン、塗り潰し、マーカー風の塊)。
-- アナログのノート落書きのような質感。
-
---- 構図
-- ランダムなメモや記号が全体を覆い尽くす。
-- 黒インクの線や文字の密度が「キャラクターの顔」の位置に集中する。
-- 結果として、混沌の中から「与えられたキャラクターの顔のシルエット・表情」がうっすら浮かび上がる。
-- 顔は写実的ではなく、カオスの断片が集まって形を成す。
-
---- 色彩
-- モノクロ(黒・白)を主体に構成。
-- 赤インクをアクセントとして散発的に配置。
-- 彩度は抑えめ、アナログの紙とインク感を重視。
-
---- 表現要素
-- 読めるようで読めない文字列、日本語や英数字が混在。
-- 数式記号、矢印、点、斜線、クロス、ドリップ(インクの飛び散り)。
-- キャラクターの顔の目や髪の輪郭は、メモや記号の配置の「余白」や「濃淡」で浮かび上がる。
-
---- 禁止事項
-- 顔を直接的に描き込む写実ポートレート。
-- デジタル処理的で整然とした幾何学模様。
-- カラフルな彩色や過飽和表現。
-- ロゴ、透かし、人工的なCG感。
-
---- Definition of Done (DoD)
-- 全体は「混沌としたメモ・記号の集合体」として成立している。  
-- 与えられたキャラクターの顔が、混沌の濃淡・配置から自然に浮かび上がる。  
-- 色はモノクロ+赤アクセントのみ。  
-- 紙とインクの手描き的質感を保持している。
 ```
 
 ## UI & Social Media Mockup Cases
@@ -2268,100 +2081,6 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 若主题适合人物展示，则以真实人物全身站姿为中央主体；若更适合器物或单体结构，则改为中心主体拆解图，但整体仍保持完整中文信息图形式。所有文字必须为简体中文，清晰、规整、可读，不要乱码、错字、英文或拼音。重点突出真实结构、材质差异、文化说明与图鉴气质。
 
 避免：海报感、影楼感、电商感、动漫感、cosplay感、乱标注、错结构、糊字、假材质、过度装饰。
-```
-
-<!-- Case 26: Glassy UI Design System (by @pfanis) -->
-### Case 26: [Glassy UI Design System](https://x.com/pfanis/status/2046414546378584558) (by [@pfanis](https://x.com/pfanis))
-
-**Prompt:**
-
-```
-Generate for me a UI design system with a very cutting-edge, bold, and unique theme that includes glassy visuals and transparencies
-```
-
-<!-- Case 27: Japanese RPG Status Screen (by @Kashiko_AIart) -->
-### Case 27: [Japanese RPG Status Screen](https://x.com/Kashiko_AIart/status/2046154976159035613) (by [@Kashiko_AIart](https://x.com/Kashiko_AIart))
-
-| Output |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case27/output.jpg" width="300" alt="Output image"></a> |
-
-**Prompt:**
-
-```
-この画像からゲームのステータス画面を作ってください。情報量多め。言語は日本語。
-```
-
-<!-- Case 28: Xuanwu Gate Social Feed (by @Tz_2022) -->
-### Case 28: [Xuanwu Gate Social Feed](https://x.com/Tz_2022/status/2046523491940225366) (by [@Tz_2022](https://x.com/Tz_2022))
-
-| Output |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case28/output.jpg" width="300" alt="Output image"></a> |
-
-**Prompt:**
-
-```
-玄武门之变的朋友圈
-```
-
-<!-- Case 29: City Travel Guide Infographic (by @MrLarus) -->
-### Case 29: [City Travel Guide Infographic](https://x.com/MrLarus/status/2046523494003851300) (by [@MrLarus](https://x.com/MrLarus))
-
-| Output |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case29/output.jpg" width="300" alt="Output image"></a> |
-
-**Prompt:**
-
-```
-生成【城市】三天旅游攻略,就这么简单一句话
-```
-
-<!-- Case 30: 3D X Profile Mockup (by @GoSailGlobal) -->
-### Case 30: [3D X Profile Mockup](https://x.com/GoSailGlobal/status/2046491397424111659) (by [@GoSailGlobal](https://x.com/GoSailGlobal))
-
-| Output |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case30/output.jpg" width="300" alt="Output image"></a> |
-
-**Prompt:**
-
-```
-创作一幅超逼真的 3D 插画,描绘一个略微倾斜的 Twitter/X 个人资料页面,背景为简洁的灰色。保留原有的卡通头像。界面必须与真实的 X 截图相似,包含真实的布局、认证徽章、粉丝统计、个人资料横幅和推文部分。
-
-个人资料详情:
-
-一位时尚的年轻男子,有着蓬松的亮黑色短发和白皙的皮肤,从个人资料页面的右侧撕开的纸片中跃然而出。他保留了原有的面部特征,只是将表情改为自然自信的微笑。他握着撕开的纸片边缘,纸屑四处飞溅,营造出强烈的 3D 突破效果。
-
-柔和的影棚灯光、电影级的阴影、景深、超高细节、清晰的焦点、逼真的皮肤、逼真的 UI 反射、优质的构图、4K 分辨率、逼真与微妙的皮克斯风格融合。
-
-重要提示:
-
-- 请勿更改头像
-
-- 保持 X UI 界面准确
-
-- 保留原有的面部特征
-
-- 角色为男性
-
-- 仅增强笑容
-
-- 确保所有中文文字清晰易读
-```
-
-<!-- Case 31: Empress Dowager Cixi X Page (by @Cryptohaifeng_) -->
-### Case 31: [Empress Dowager Cixi X Page](https://x.com/Cryptohaifeng_/status/2046165776055546341) (by [@Cryptohaifeng_](https://x.com/Cryptohaifeng_))
-
-| Output |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case31/output.jpg" width="300" alt="Output image"></a> |
-
-**Prompt:**
-
-```
-生成一张慈禧的X主页
 ```
 
 <!-- Case 32: Palm Reading Diagnosis Report (by @agi_aibusi) -->
@@ -2566,6 +2285,8 @@ Create a landing page using this image as a reference for style and color gradin
 
 
 
+
+<!-- Case 44: Apple Pods Pro 3 Headphone E-Commerce Infographic (by @meng_dagg695) -->
 ### Case 44: [Apple Pods Pro 3 Headphone E-Commerce Infographic](https://x.com/meng_dagg695/status/2047935217231663186) (by [@meng_dagg695](https://x.com/meng_dagg695))
 
 | Output |
@@ -2670,6 +2391,7 @@ Render Quality: Hyperrealistic, clean ad aesthetic,
 ```
 
 
+<!-- Case 45: Apple Pods Pro 3 Earbuds E-Commerce Infographic (by @rovvmut_) -->
 ### Case 45: [Apple Pods Pro 3 Earbuds E-Commerce Infographic](https://x.com/rovvmut_/status/2047912710365761828) (by [@rovvmut_](https://x.com/rovvmut_))
 
 | Output |
@@ -2683,6 +2405,7 @@ High-impact e-commerce infographic for "Apple Pods Pro 3" wireless earbuds.
 ```
 
 
+<!-- Case 46: Beauty Product Commercial Marketing Photograph (by @AIwithSarah_) -->
 ### Case 46: [Beauty Product Commercial Marketing Photograph](https://x.com/AIwithSarah_/status/2047904483359760677) (by [@AIwithSarah_](https://x.com/AIwithSarah_))
 
 | Output |
@@ -2696,6 +2419,7 @@ A high-resolution commercial marketing photograph features a young woman with sl
 ```
 
 
+<!-- Case 47: AAA Video Game Screenshot Concept Design (by @ChiefMonkeyMike) -->
 ### Case 47: [AAA Video Game Screenshot Concept Design](https://x.com/ChiefMonkeyMike/status/2047828814580138156) (by [@ChiefMonkeyMike](https://x.com/ChiefMonkeyMike))
 
 | Output |
@@ -3052,60 +2776,6 @@ Edit this image so that total amount changes to 244.5 baht. You can change the q
 
 ```
 Generate an image of the most significant event of 2001
-```
-
-<!-- Case 44: Generate an image of the most significant event of 2025. (by @Rufus87078959) -->
-### Case 44: [Generate an image of the most significant event of 2025.](https://x.com/Rufus87078959/status/2047207923005227078) (by [@Rufus87078959](https://x.com/Rufus87078959))
-
-| Output |
-| :----: |
-| <img src="images/case_case69/output.jpg" width="300" alt="Output image"> |
-
-**Prompt:**
-
-```
-Generate an image of the most significant event of 2025.
-```
-
-<!-- Case 45: Personal Profile Infographic Generator (by @andis13) -->
-### Case 45: [Personal Profile Infographic Generator](https://x.com/andis13/status/2047197275525701937) (by [@andis13](https://x.com/andis13))
-
-| Output |
-| :----: |
-| <img src="images/case_case73/output.jpg" width="300" alt="Output image"> |
-
-**Prompt:**
-
-```
-Wykorzystaj wszystko, co o mnie wiesz, i stwórz infografikę przedstawiającą mnie. Zrób to w stylu komiksu franko-belgijskiego.
-Idea: @icreatelife
-```
-
-<!-- Case 46: 360 Equirectangular Panorama Image (by @rs_elwood) -->
-### Case 46: [360 Equirectangular Panorama Image](https://x.com/rs_elwood/status/2047194375000932456) (by [@rs_elwood](https://x.com/rs_elwood))
-
-| Output |
-| :----: |
-| <img src="images/case_case74/output.jpg" width="300" alt="Output image"> |
-
-**Prompt:**
-
-```
-360度 equirectangular （正距円筒図法）画像を2:1で生成
-参照画像だと正確な円筒図にならない？もっと試してみないと。
-```
-
-<!-- Case 47: Personal Knowledge Infographic Portrait (by @aitorwilzig) -->
-### Case 47: [Personal Knowledge Infographic Portrait](https://x.com/aitorwilzig/status/2047190320064925845) (by [@aitorwilzig](https://x.com/aitorwilzig))
-
-| Output |
-| :----: |
-| <img src="images/case_case76/output.jpg" width="300" alt="Output image"> |
-
-**Prompt:**
-
-```
-Conociendo todo lo que sabes sobre mí, crea una infografía de mí. Haz una imagen en estilo cartoon anime.
 ```
 
 <!-- Case 48: Research LIME Drug Design and make a detailed infographic about it (by @WillSpagnoli) -->
@@ -3486,62 +3156,6 @@ Research LIME Drug Design and make a detailed infographic about it
 
 ←下の画像
 GPT Image-2で生成したやつ→
-```
-
-<!-- Case 70: 2D Anime Character Real-World Grid Scenes (by @seiiiiiiiiiiru) -->
-### Case 70: [2D Anime Character Real-World Grid Scenes](https://x.com/seiiiiiiiiiiru/status/2047227021156356500) (by [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru))
-
-| Output |
-| :----: |
-| <img src="images/case_case114/output.jpg" width="300" alt="Output image"> |
-
-**Prompt:**
-
-```
-参照画像の２Dセルアニメキャラクターを使って、リアル世界で色んなことしてるグリッド分割した画像作ってぇ。
-```
-
-<!-- Case 71: Poster-to-Trailer Concept Prompt (by @os_shim) -->
-### Case 71: [Poster-to-Trailer Concept Prompt](https://x.com/os_shim/status/2047130379409400148) (by [@os_shim](https://x.com/os_shim))
-
-| Output |
-| :----: |
-| <img src="images/case_case115/output.jpg" width="300" alt="Output image"> |
-
-**Prompt:**
-
-```
-「このポスターを見みて、自分で妄想してトレーラー映像を作ってくれ。」
-```
-
-<!-- Case 72: Rubber Duck Boy Live-Action Movie Poster (by @mirai_ai2050) -->
-### Case 72: [Rubber Duck Boy Live-Action Movie Poster](https://x.com/mirai_ai2050/status/2046944941583270341) (by [@mirai_ai2050](https://x.com/mirai_ai2050))
-
-| Output |
-| :----: |
-| <img src="images/case_case116/output.jpg" width="300" alt="Output image"> |
-
-**Prompt:**
-
-```
-可愛いラバーダックの男の子「ルヒア(RUHiA)」が日本を目指して大冒険をして日本人女性の「ミライ」と出会うまでの物語。それを実写映画のポスターのようにして。
-
-参照画像入れてないのに女性もミライの雰囲気に似てない？
-```
-
-<!-- Case 73: Tomato E-Commerce Product Image Set (by @Adam38363368936) -->
-### Case 73: [Tomato E-Commerce Product Image Set](https://x.com/Adam38363368936/status/2047165092253532461) (by [@Adam38363368936](https://x.com/Adam38363368936))
-
-| Output |
-| :----: |
-| <img src="images/case_case117/output.jpg" width="300" alt="Output image"> |
-
-**Prompt:**
-
-```
-/gpt-image-2 帮我生成关于西红柿的全套产品电商介绍图片
-
-使用地址
 ```
 
 ## Acknowledge
