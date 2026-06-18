@@ -5,7 +5,7 @@
 <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-API-and-Prompts"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/logo.png" alt="Project logo"></a>
 
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
-[![878 Curated Prompts](https://img.shields.io/badge/Prompts-878_Curated_Cases-111111)](README.md)
+[![881 Curated Prompts](https://img.shields.io/badge/Prompts-881_Curated_Cases-111111)](README.md)
 [![🎬 GPT-Image-2 × Seedance 2.0 - Cinematic Workflow](https://img.shields.io/badge/🎬_GPT--Image--2_×_Seedance_2.0-Cinematic_Workflow-blueviolet)](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow)
 [![🛠️ GPT-Image-2 Gen Skill - Callable Skill](https://img.shields.io/badge/🛠️_GPT--Image--2_Gen_Skill-Callable_Skill-green)](https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
 
@@ -7192,7 +7192,7 @@ Left edge: vertical filmstrip with 4 panels showing the girl (1) performing on s
 
 ## 🧍 キャラクターデザイン事例
 
-> **11件の厳選ケース** — [すべてのキャラクターデザインプロンプトを見る →](cases/character.md)
+> **12件の厳選ケース** — [すべてのキャラクターデザインプロンプトを見る →](cases/character.md)
 
 <!-- Case 2: Persona5 Character Reference Card (by @iamrednightS) -->
 ### Case 2: [Persona5 Character Reference Card](https://x.com/iamrednightS/status/2045075682837836265) (by [@iamrednightS](https://x.com/iamrednightS))
@@ -7639,6 +7639,27 @@ Vertical 9:16 full-body cinematic portrait of a single alien character, the Lumi
 
 Negative prompt:
 human-like alien, humanoid face, eyes, nose, mouth, jaw, blue-skinned human, elf, armor suit, guns, generic sci-fi soldier, anime style, cartoon, chibi, cyberpunk city, neon signs, medieval fantasy, wings, halos, angel, bad anatomy, random extra limbs, cluttered background, oversaturated colors, strong lens distortion, fisheye, low resolution, blurry details, noisy grain, HUD, UI, readable text, watermark, logo, modern Earth clothing, sneakers, jeans, T-shirt
+```
+
+<!-- Case 26: ビジュアルノベル キャラクタープロフィール (by @iamaiistudio) -->
+### Case 26: [ビジュアルノベル キャラクタープロフィール](https://x.com/iamaiistudio/status/2067308176715001944) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| 出力 |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/character_case26/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Visual Novel Character Profile"></a> |
+
+**プロンプト:**
+
+```
+Create a high-quality character introduction page using a chibi illustration and a full standing character artwork, styled like an official visual novel (gal-game) character profile page. It should look realistic enough to use on an actual game website. Include CG-style illustrations, facial expression variants, and a chibi version of the character.
+
+"Self-introduction here"
+
+Name: (name here)
+Theme color: (color here)
+Height: (height here) cm
+Weight: (weight here) kg
+Catchphrase: "(line here)"
 ```
 
 ## 📱 UI・ソーシャルメディアモックアップ事例
@@ -8875,7 +8896,7 @@ Overall mood: design catalog / product design journal — architectural, premium
 
 ## 🧪 比較・コミュニティ事例
 
-> **24件の厳選ケース** — [すべての比較事例を見る →](cases/comparison.md)
+> **26件の厳選ケース** — [すべての比較事例を見る →](cases/comparison.md)
 
 <!-- Case 80: Sam Altman Bear Selfie (by @JustinGorya) -->
 ### Case 80: [Sam Altman Bear Selfie](https://x.com/JustinGorya/status/2046510831832006970) (by [@JustinGorya](https://x.com/JustinGorya))
@@ -9946,6 +9967,39 @@ Once GPT-Image 2 gives you the first ultra high quality image, upload the rest o
 
 ```
 Modify this photo so the total adds up to 244.5 baht. Adjust the number of coins in each stack until the combined value hits the target.
+```
+
+<!-- Case 106: ブループリントとレンダーの分割オブジェクト (by @iamaiistudio) -->
+### Case 106: [ブループリントとレンダーの分割オブジェクト](https://x.com/iamaiistudio/status/2067202108303311255) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case106/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Blueprint vs Render Split Object"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case106/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Blueprint vs Render Split Object"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case106/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Blueprint vs Render Split Object"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case106/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Blueprint vs Render Split Object"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Pick any object and slice it in half vertically, the left side rendered as a detailed technical schematic blueprint with grid lines and annotations, the right side as a polished 3D model render, the center seam flickering and glitching where the two visual realities collide.
+```
+
+<!-- Case 107: パーゴラの設計図と完成形の分割比較 (by @iamaiistudio) -->
+### Case 107: [パーゴラの設計図と完成形の分割比較](https://x.com/iamaiistudio/status/2067142493389603170) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case107/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Pergola Blueprint Build Split"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case107/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Pergola Blueprint Build Split"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Architectural split-scene: left side shows a hand-sketched pencil blueprint of a wooden garden pergola on white paper, front and slight side elevation with construction lines, dimension labels, and handwritten notes, posts and crossbeams precisely drafted in a professional hand-sketched technical style. Right side shows the finished pergola fully built in a real garden, photographed from a low front-corner angle at eye level showing the full timber beam depth. Natural wood texture with realistic joints, installed on grass with surrounding plants, soft daylight and grounded shadows. Photorealistic architectural visualization.
+
+Pergola Blueprint Prompt: Hand-drawn architectural pencil sketch of a wooden garden pergola on white paper. Front and slight side elevation view with clear proportions.
+
+Construction lines, dimensions and handwritten notes visible. Wooden posts and cross beams precisely drafted. Professional but hand-sketched technical style. Clean white background.
+
+Finished Pergola: Fully built wooden pergola in a real garden, matching the exact structure and proportions from the sketch. Viewed from a low front corner perspective at eye level, showing depth and the full beam structure instead of a flat elevation. Natural wood texture with realistic joints and connections. Installed on grass with surrounding plants. Soft daylight with grounded shadows. Photorealistic architectural visualization.
 ```
 
 ## 🤝 貢献方法

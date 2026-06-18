@@ -5,7 +5,7 @@
 <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-API-and-Prompts"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/logo.png" alt="Project logo"></a>
 
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
-[![878 Curated Prompts](https://img.shields.io/badge/Prompts-878_Curated_Cases-111111)](README.md)
+[![881 Curated Prompts](https://img.shields.io/badge/Prompts-881_Curated_Cases-111111)](README.md)
 [![🎬 GPT-Image-2 × Seedance 2.0 - Cinematic Workflow](https://img.shields.io/badge/🎬_GPT--Image--2_×_Seedance_2.0-Cinematic_Workflow-blueviolet)](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow)
 [![🛠️ GPT-Image-2 Gen Skill - Callable Skill](https://img.shields.io/badge/🛠️_GPT--Image--2_Gen_Skill-Callable_Skill-green)](https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
 
@@ -28,11 +28,11 @@
 Convierte cualquier prompt de este repositorio en una llamada a la API de GPT Image 2:
 
 <p align="center">
-  <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts"><strong>Página del modelo</strong></a> &nbsp;·&nbsp;
-  <a href="https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts"><strong>Documentación</strong></a> &nbsp;·&nbsp;
-  <a href="https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts"><strong>API Key</strong></a> &nbsp;·&nbsp;
-  <a href="https://github.com/EvoLinkAI/gpt-image-2-gen-skill"><strong>Skill</strong></a> &nbsp;·&nbsp;
-  <a href="https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow"><strong>Workflow</strong></a>
+  <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts"><strong>Ejecutar API de GPT Image 2</strong></a> &nbsp;·&nbsp;
+  <a href="https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts"><strong>Ver documentación API</strong></a> &nbsp;·&nbsp;
+  <a href="https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts"><strong>Obtener API key</strong></a> &nbsp;·&nbsp;
+  <a href="https://github.com/EvoLinkAI/gpt-image-2-gen-skill"><strong>Instalar skill del agente</strong></a> &nbsp;·&nbsp;
+  <a href="https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow"><strong>Workflow de imagen a video</strong></a>
 </p>
 
 ```bash
@@ -69,7 +69,7 @@ curl --request POST \
 
 ¡Bienvenido al repositorio **Awesome GPT Image 2 API and Prompts**! 🤗
 
-Una colección curada de **871+ prompts GPT-Image-2 de alta calidad**, patrones de uso de API y flujos visuales reutilizables para generación de imágenes con IA.
+Una colección curada de **881+ prompts GPT-Image-2 de alta calidad**, patrones de uso de API y flujos visuales reutilizables para generación de imágenes con IA.
 
 Si buscas ejemplos de prompts para GPT-Image-2, buenas prácticas de texto a imagen, técnicas de edición de imágenes o plantillas listas para usar, esta es tu referencia principal.
 
@@ -79,7 +79,7 @@ Si buscas ejemplos de prompts para GPT-Image-2, buenas prácticas de texto a ima
 - 🌍 Documentación completa en 11 idiomas
 - 📸 Imágenes de salida reales para cada caso de prompt
 
-Pruébalo en Evolink: [GPT-Image-2 API](https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
+Ejecútalo en EvoLink: [API de GPT Image 2 con prompts, documentación y primera solicitud](https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
 
 Si te resulta útil, considera dejar una estrella. ⭐
 
@@ -154,8 +154,8 @@ Funciona con el formato estándar de la API de OpenAI (`/v1/images/generations`)
 
 ¿Quieres pasar rápido de la inspiración de prompts a la generación real de imágenes? Usa la documentación de la API de GPT Image 2 junto con la skill invocable.
 
-- [Abrir GPT Image 2 en EvoLink](https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
-- [Leer la documentación de la API de GPT Image 2](https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
+- [Ejecutar la API de GPT Image 2 en EvoLink](https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
+- [Ver la documentación de la API de GPT Image 2](https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
 - [Obtener tu API key de EvoLink](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
 - [Ir al repositorio del workflow GPT Image 2 to Seedance 2.0](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow)
 
@@ -7219,7 +7219,7 @@ Left edge: vertical filmstrip with 4 panels showing the girl (1) performing on s
 
 ## 🧍 Character Design Cases
 
-> **11 curated cases** — [Explore all Character Design Prompts →](cases/character.md)
+> **12 casos seleccionados** — [Explora todos los prompts de diseño de personajes →](cases/character.md)
 
 <!-- Case 2: Persona5 Character Reference Card (by @iamrednightS) -->
 ### Case 2: [Persona5 Character Reference Card](https://x.com/iamrednightS/status/2045075682837836265) (by [@iamrednightS](https://x.com/iamrednightS))
@@ -7264,7 +7264,7 @@ A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber 
 {argument name="game" default="gta 6"} in {argument name="location" default="Bangalore's market flower"} in India
 ```
 
-👉 **See all 13 Character Design prompt cases →**
+👉 **Ver los 14 casos de prompts de diseño de personajes →**
 
 <!-- Case 18: Stylized 3D Skater Character (by @iamaiistudio) -->
 ### Case 18: [Stylized 3D Skater Character](https://x.com/iamaiistudio/status/2062038112398954712) (by [@iamaiistudio](https://x.com/iamaiistudio))
@@ -7664,6 +7664,27 @@ Vertical 9:16 full-body cinematic portrait of a single alien character, the Lumi
 
 Negative prompt:
 human-like alien, humanoid face, eyes, nose, mouth, jaw, blue-skinned human, elf, armor suit, guns, generic sci-fi soldier, anime style, cartoon, chibi, cyberpunk city, neon signs, medieval fantasy, wings, halos, angel, bad anatomy, random extra limbs, cluttered background, oversaturated colors, strong lens distortion, fisheye, low resolution, blurry details, noisy grain, HUD, UI, readable text, watermark, logo, modern Earth clothing, sneakers, jeans, T-shirt
+```
+
+<!-- Case 26: Visual Novel Character Profile (by @iamaiistudio) -->
+### Case 26: [Perfil de personaje de novela visual](https://x.com/iamaiistudio/status/2067308176715001944) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/character_case26/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Perfil de personaje de novela visual"></a> |
+
+**Prompt:**
+
+```
+Create a high-quality character introduction page using a chibi illustration and a full standing character artwork, styled like an official visual novel (gal-game) character profile page. It should look realistic enough to use on an actual game website. Include CG-style illustrations, facial expression variants, and a chibi version of the character.
+
+"Self-introduction here"
+
+Name: (name here)
+Theme color: (color here)
+Height: (height here) cm
+Weight: (weight here) kg
+Catchphrase: "(line here)"
 ```
 
 ## 📱 UI & Social Media Mockup Cases
@@ -8779,7 +8800,7 @@ Highly detailed, colored pencil illustration, crayon art style, hand-sketched te
 
 ## 🧪 Comparison & Community Examples
 
-> **24 curated cases** — [Explore all Comparison Examples →](cases/comparison.md)
+> **26 casos seleccionados** — [Explora todos los ejemplos de comparación →](cases/comparison.md)
 
 <!-- Case 80: Sam Altman Bear Selfie (by @JustinGorya) -->
 ### Case 80: [Sam Altman Bear Selfie](https://x.com/JustinGorya/status/2046510831832006970) (by [@JustinGorya](https://x.com/JustinGorya))
@@ -9037,7 +9058,7 @@ Right side: character sheet + palette: sunny park, green grass, raccoon grey-bro
 “Create a crisp, clean infographic storyboard poster for THE SOURDOUGH BAKER. Wide 16:9 layout, white background, black borders, bold black typography, premium Pixar 3D stylized rendering, bright warm colors — creamy dough whites, golden crust browns, warm flour dust, rich amber kitchen light, pops of green from herbs on the windowsill. Top header: THE SOURDOUGH BAKER TOTAL VIDEO TIME: 12 SECONDS 8 SHOTS · WARM · SLOW · BAKED WITH LOVE Legend icons: ACTION, HEAT, TIME HINT, INGREDIENT Same Pixar-style young male baker throughout — flour-dusted white apron, warm rustic kitchen, wooden counter, morning light streaming through the window. And one recurring character — a fluffy orange cat who takes the craft extremely seriously and is present in every single panel. 8 panels: Panel 1 — THE OPENER: Wide shot. Baker walks into his kitchen at dawn carrying a large flour bag under one arm. He drops it onto the wooden counter sending a dramatic puff of white flour into the warm morning light — flour cloud catching the golden sunlight beautifully. The orange cat is already sitting on the counter waiting, completely unbothered by the flour cloud, staring directly at the baker. They look at each other. The day begins. You know exactly what's about to happen. Panel 2 — THE MIX: Overhead locked shot. Baker's hands mixing flour, water and sourdough starter together in a large ceramic bowl — shaggy dough forming, the transformation beginning. The orange cat sits at the edge of the counter, head tilted, watching the bowl with complete concentration. Panel 3 — THE KNEAD: The hero comedy panel. Baker steps aside. The orange cat is on the counter, both front paws pressing and kneading the dough exactly like cats do in real life — slow rhythmic biscuit-making motion, eyes half closed in pure contentment. Baker watches from the side with a resigned smile. The cat is completely unbothered and deeply committed to the process. Panel 4 — THE FOLD: Side angle. Baker performs the stretch and fold — pulling the dough up and folding it over itself, the dough becoming smooth and elastic. Close-up on hands and dough. The orange cat watches from beside the bowl, one paw resting on the counter edge, supervising every movement. Panel 5 — THE SCORE: Close-up dramatic shot. Baker holds a razor lame above the risen dough, scoring a deep curved line across the surface — the blade catching the light. The orange cat sits in the background perfectly framed, watching with complete intensity as if this is the most important moment of the day. It is. Panel 6 — THE OVEN: Wide shot. Baker slides the dough inside the cast iron dutch oven, closes the heavy lid, slides it into the glowing oven. The orange cat sits directly in front of the oven door, staring at it, waiting. Will not move. Will never move. Panel 7 — THE REVEAL: The hero frame. Baker lifts the dutch oven lid — an enormous cloud of steam erupts upward, and beneath it the most perfect golden sourdough loaf, deeply scored crust cracked open, caramelized and blistered. The orange cat stands up on its hind legs trying to see over the counter edge, eyes wide, completely losing its composure for the first time. Panel 8 — THE SLICE: Wide warm shot. Baker slices through the loaf — perfect open crumb revealed inside, steam still rising, golden crust crackling. Butter placed on the warm slice, melting instantly. The orange cat sits beside the cutting board, one paw raised toward the bread. Baker looks at the cat. Cat looks at the bread. Baker smiles. Perfect ending. Footer: VIDEO FLOW: 8 shots × ~1.5s = 12 seconds. Flour drop to first slice. CAMERA TIPS: wide on opener with flour cloud, overhead on the mix, wide medium on the knead with cat in full view, side angle on the fold, close-up on the score, wide on the oven with cat guarding, hero wide shot on the steam reveal, warm wide on the final slice LIGHT & STYLE: warm golden morning light, creamy dough whites, deep golden crust.”
 ```
 
-👉 **See all 53 Comparison & Community prompt cases →**
+👉 **Ver los 55 casos de prompts de comparación y comunidad →**
 
 <!-- Case 80: Storyboard Grid Template (by @EricoolWong) -->
 ### Case 80: [Storyboard Grid Template](https://x.com/EricoolWong/status/2055788309511917880) (by [@EricoolWong](https://x.com/EricoolWong))
@@ -9971,6 +9992,39 @@ Once GPT-Image 2 gives you the first ultra high quality image, upload the rest o
 
 ```
 Modify this photo so the total adds up to 244.5 baht. Adjust the number of coins in each stack until the combined value hits the target.
+```
+
+<!-- Case 106: Blueprint vs Render Split Object (by @iamaiistudio) -->
+### Case 106: [Objeto dividido: plano vs. render](https://x.com/iamaiistudio/status/2067202108303311255) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case106/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Objeto dividido: plano vs. render"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case106/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Objeto dividido: plano vs. render"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case106/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Objeto dividido: plano vs. render"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case106/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Objeto dividido: plano vs. render"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Pick any object and slice it in half vertically, the left side rendered as a detailed technical schematic blueprint with grid lines and annotations, the right side as a polished 3D model render, the center seam flickering and glitching where the two visual realities collide.
+```
+
+<!-- Case 107: Pergola Blueprint Build Split (by @iamaiistudio) -->
+### Case 107: [Pérgola dividida: plano y construcción](https://x.com/iamaiistudio/status/2067142493389603170) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case107/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Pérgola dividida: plano y construcción"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case107/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Pérgola dividida: plano y construcción"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Architectural split-scene: left side shows a hand-sketched pencil blueprint of a wooden garden pergola on white paper, front and slight side elevation with construction lines, dimension labels, and handwritten notes, posts and crossbeams precisely drafted in a professional hand-sketched technical style. Right side shows the finished pergola fully built in a real garden, photographed from a low front-corner angle at eye level showing the full timber beam depth. Natural wood texture with realistic joints, installed on grass with surrounding plants, soft daylight and grounded shadows. Photorealistic architectural visualization.
+
+Pergola Blueprint Prompt: Hand-drawn architectural pencil sketch of a wooden garden pergola on white paper. Front and slight side elevation view with clear proportions.
+
+Construction lines, dimensions and handwritten notes visible. Wooden posts and cross beams precisely drafted. Professional but hand-sketched technical style. Clean white background.
+
+Finished Pergola: Fully built wooden pergola in a real garden, matching the exact structure and proportions from the sketch. Viewed from a low front corner perspective at eye level, showing depth and the full beam structure instead of a flat elevation. Natural wood texture with realistic joints and connections. Installed on grass with surrounding plants. Soft daylight with grounded shadows. Photorealistic architectural visualization.
 ```
 
 ## 🤝 Cómo contribuir

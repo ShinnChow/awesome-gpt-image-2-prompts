@@ -8685,6 +8685,36 @@
       "case_anchor": "#case-194-obsidian-coffee-brand-campaign-by-iamaiistudio",
       "image_dir": "images/ad-creative_case194",
       "added_at": "2026-06-16T02:09:42.308Z"
+    },
+    {
+      "tweet_url": "https://x.com/iamaiistudio/status/2067308176715001944",
+      "author_handle": "iamaiistudio",
+      "title": "Visual Novel Character Profile",
+      "category": "Character Design Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-26-visual-novel-character-profile-by-iamaiistudio",
+      "image_dir": "images/character_case26",
+      "added_at": "2026-06-18T02:08:54.083Z"
+    },
+    {
+      "tweet_url": "https://x.com/iamaiistudio/status/2067202108303311255",
+      "author_handle": "iamaiistudio",
+      "title": "Blueprint vs Render Split Object",
+      "category": "Comparison & Community Examples",
+      "readme_file": "README.md",
+      "case_anchor": "#case-106-blueprint-vs-render-split-object-by-iamaiistudio",
+      "image_dir": "images/comparison_case106",
+      "added_at": "2026-06-18T02:08:54.084Z"
+    },
+    {
+      "tweet_url": "https://x.com/iamaiistudio/status/2067142493389603170",
+      "author_handle": "iamaiistudio",
+      "title": "Pergola Blueprint Build Split",
+      "category": "Comparison & Community Examples",
+      "readme_file": "README.md",
+      "case_anchor": "#case-107-pergola-blueprint-build-split-by-iamaiistudio",
+      "image_dir": "images/comparison_case107",
+      "added_at": "2026-06-18T02:08:54.084Z"
     }
   ],
   "generated_at": "2026-06-14T06:51:17.453106+00:00"
