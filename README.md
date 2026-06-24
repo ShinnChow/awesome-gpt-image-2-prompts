@@ -6,7 +6,7 @@
 
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 [![929 Curated Prompts](https://img.shields.io/badge/Prompts-929_Curated_Cases-111111)](README.md)
-[![🎬 GPT-Image-2 × Seedance 2.0 - Cinematic Workflow](https://img.shields.io/badge/🎬_GPT--Image--2_×_Seedance_2.0-Cinematic_Workflow-blueviolet)](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow)
+[![🎬 GPT-Image-2 × Seedance 2.5 - Cinematic Workflow](https://img.shields.io/badge/🎬_GPT--Image--2_×_Seedance_2.5-Cinematic_Workflow-blueviolet)](https://github.com/EvoLinkAI/GPT-Image-2-Seedance-2.5-Workflow)
 [![🛠️ GPT-Image-2 Gen Skill - Callable Skill](https://img.shields.io/badge/🛠️_GPT--Image--2_Gen_Skill-Callable_Skill-green)](https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
@@ -32,7 +32,7 @@ Turn any prompt in this repository into a GPT Image 2 API call:
   <a href="https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts"><strong>View API Docs</strong></a> &nbsp;·&nbsp;
   <a href="https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts"><strong>Get API Key</strong></a> &nbsp;·&nbsp;
   <a href="https://github.com/EvoLinkAI/gpt-image-2-gen-skill"><strong>Install Agent Skill</strong></a> &nbsp;·&nbsp;
-  <a href="https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow"><strong>Image-to-Video Workflow</strong></a>
+  <a href="https://github.com/EvoLinkAI/GPT-Image-2-Seedance-2.5-Workflow"><strong>Image-to-Video Workflow</strong></a>
 </p>
 
 ```bash
@@ -125,7 +125,7 @@ Want to move from prompt inspiration to real image generation fast? Use the GPT 
 - [Run GPT Image 2 API on EvoLink](https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
 - [View GPT Image 2 API docs](https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
 - [Get your EvoLink API key](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
-- [Go to the GPT Image 2 to Seedance 2.0 workflow repository](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow)
+- [Go to the GPT Image 2 to Seedance 2.5 workflow repository](https://github.com/EvoLinkAI/GPT-Image-2-Seedance-2.5-Workflow)
 
 ### 1. Install the Skill
 
